@@ -17,8 +17,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/interactive-rating-component-LgP3eaFnsH)
+- Live Site URL: [Add live site URL here](https://bryan-giitwa.github.io/interactive-rating-component/)
 
 ### Built with
 
@@ -34,5 +34,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Bryan Giitwa](https://techbiryan.xyz)
+- Website - [Techbiryan](https://techbiryan.xyz)
 - Frontend Mentor - [@Bryan-Giitwa](https://www.frontendmentor.io/profile/Bryan-Giitwa)
