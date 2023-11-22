@@ -17,8 +17,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/interactive-rating-component-LgP3eaFnsH)
-- Live Site URL: [Add live site URL here](https://bryan-giitwa.github.io/interactive-rating-component/)
+- Solution URL: [frontendmentor](https://www.frontendmentor.io/solutions/interactive-rating-component-LgP3eaFnsH)
+- Live Site URL: [github.io](https://bryan-giitwa.github.io/interactive-rating-component/)
 
 ### Built with
 
